@@ -1249,6 +1249,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -1332,7 +1333,6 @@
               ]
             },
             "id": "256e5240-1f20-439d-ab0f-ffe38f8da2f1",
-            "zIndex": 1,
             "data": {
               "type": "tm.Actor",
               "name": "Usuarios",
@@ -1366,6 +1366,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 2,
             "ports": {
               "groups": {
                 "top": {
@@ -1449,7 +1450,6 @@
               ]
             },
             "id": "caa5c2bd-64b6-478b-847f-92cbec6eea30",
-            "zIndex": 2,
             "data": {
               "type": "tm.Process",
               "name": "Controlador web",
@@ -1486,6 +1486,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 3,
             "ports": {
               "groups": {
                 "top": {
@@ -1569,7 +1570,6 @@
               ]
             },
             "id": "69b430c8-ccea-49f7-b708-ce9d10b87c99",
-            "zIndex": 3,
             "data": {
               "type": "tm.Process",
               "name": "Proceso de login",
@@ -1949,6 +1949,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 11,
             "ports": {
               "groups": {
                 "top": {
@@ -2032,7 +2033,6 @@
               ]
             },
             "id": "66a3d8eb-cab6-41a4-9ee5-52713cf5bda4",
-            "zIndex": 11,
             "data": {
               "type": "tm.Store",
               "name": "Páginas web en disco",
@@ -2120,6 +2120,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 13,
             "ports": {
               "groups": {
                 "top": {
@@ -2203,7 +2204,6 @@
               ]
             },
             "id": "efda75d0-d67b-4cf2-a408-3b3a133096a3",
-            "zIndex": 13,
             "data": {
               "type": "tm.Store",
               "name": "Base de datos",
