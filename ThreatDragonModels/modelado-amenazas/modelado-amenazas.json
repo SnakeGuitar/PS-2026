@@ -1,0 +1,35 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "modelado-amenazas",
+    "owner": "EE Programación Segura",
+    "description": "Actividad: Modelo de amenazas en OWASP Threat Dragon.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "website",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": []
+      },
+      {
+        "id": 1,
+        "title": "login",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Guillermo Vera",
+    "threatTop": 0
+  }
+}
